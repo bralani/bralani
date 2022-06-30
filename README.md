@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1 align="center"><a href="mailto:matteobalice02@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a> Hi, I'm Matteo Balice <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
+	</h1>
+<br>
 
-<!--
-**bralani/bralani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bralani&theme=algolia" alt="bralani" />
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## :sassy_man:  About me
+- :student: I’m student in `Computer Science` at University of Bari.
+
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/bralani"><img alt="bralani's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=bralani&custom_title=bralani's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+  
+## :trophy: Git profile Trophies
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bralani&layout=compact&theme=algolia" alt="bralani" /></a> </p>
