@@ -10,8 +10,6 @@
 ## :sassy_man:  About me
 - :student: I’m student in `Computer Science` at University of Bari.
 
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
   
 ## :trophy: Git profile Trophies
 
