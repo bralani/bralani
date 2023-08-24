@@ -8,7 +8,7 @@
 
 
 ## :sassy_man:  About me
-- :student: I’m student in `Computer Science` at University of Bari.
+- :student: I’m student in `Computer Science and Engineering in Artificial Intelligence` at Politecnico of Milan.
 
   
 ## :trophy: Git profile Trophies
